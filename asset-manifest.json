@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37032d62.chunk.css",
+    "main.js": "/static/js/main.332a2b1a.chunk.js",
+    "main.js.map": "/static/js/main.332a2b1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.89bc9405.js",
+    "runtime-main.js.map": "/static/js/runtime-main.89bc9405.js.map",
+    "static/js/2.281d3307.chunk.js": "/static/js/2.281d3307.chunk.js",
+    "static/js/2.281d3307.chunk.js.map": "/static/js/2.281d3307.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.68038e3d47ccbba5e858dea2d25c1b82.js": "/precache-manifest.68038e3d47ccbba5e858dea2d25c1b82.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.37032d62.chunk.css.map": "/static/css/main.37032d62.chunk.css.map",
+    "static/js/2.281d3307.chunk.js.LICENSE.txt": "/static/js/2.281d3307.chunk.js.LICENSE.txt",
+    "static/media/1.svg": "/static/media/1.b000db64.svg",
+    "static/media/2.svg": "/static/media/2.6c6e7540.svg",
+    "static/media/3.svg": "/static/media/3.d85a8736.svg",
+    "static/media/4.svg": "/static/media/4.0f67f3c9.svg",
+    "static/media/books-comic-homepage.jpg": "/static/media/books-comic-homepage.b6e97a71.jpg",
+    "static/media/books-general-ledger.png": "/static/media/books-general-ledger.a3a6f80a.png",
+    "static/media/dashboard.png": "/static/media/dashboard.6ac30b66.png",
+    "static/media/frappe-team.webp": "/static/media/frappe-team.133a7f39.webp",
+    "static/media/frappebooks-hero.png": "/static/media/frappebooks-hero.824b883d.png",
+    "static/media/invoicing.png": "/static/media/invoicing.55670e6b.png",
+    "static/media/payments.webp": "/static/media/payments.853ad7fc.webp",
+    "static/media/report-pnl.png": "/static/media/report-pnl.61b55c65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89bc9405.js",
+    "static/js/2.281d3307.chunk.js",
+    "static/css/main.37032d62.chunk.css",
+    "static/js/main.332a2b1a.chunk.js"
+  ]
+}
